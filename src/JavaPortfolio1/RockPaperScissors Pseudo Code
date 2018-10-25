@@ -1,0 +1,15 @@
+Rock Paper Scissors program
+
+import the scanner and the random number generation
+
+initialize variables (rock, paper, scissors, userchoice, compchoice)
+
+Set the computer using the random import to randomly choose a number between 0 and 2
+0 = rock 1 = paper 2 = scissors
+
+prompt the user to input their choice
+0 = rock 1 = paper 2 = scissors
+
+Use if statements and else if statements to set up all different scenarios
+
+display what the computer chose, and tell the user if they won or lost

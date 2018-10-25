@@ -1,0 +1,10 @@
+Restaurant Program
+
+import the scanner for user input
+display the menu to the user
+initialize variables(item1, item2, item3, total, tax, tip, total2, total3, tip2)
+
+prompt user input for what items they want to purchase
+print the total before tax
+print the total with tax
+print the total with tax and tip to the user

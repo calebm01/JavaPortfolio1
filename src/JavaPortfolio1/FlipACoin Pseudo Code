@@ -1,0 +1,9 @@
+Flip A Coin Pseudo Code
+
+initialize variables (heads, tails, result)
+
+import random number generation in order to let the computer choose heads or tails
+
+prompt user input for heads or tails using ints
+
+display whether the user's input was correct or not

@@ -1,0 +1,14 @@
+
+Personal Income Tax Pseudo Code
+
+Initialize variables (int income_tax, double final_tax, double for each tax rate, int status, int income.)
+
+Get input for status and income
+
+Open a multi-way if statement for status
+
+Nest a multi-way if statement for income depending on the user’s status
+
+Calculate tax
+
+Display final tax
