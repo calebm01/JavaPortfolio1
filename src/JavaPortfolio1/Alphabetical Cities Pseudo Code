@@ -1,0 +1,7 @@
+Initialize string variables for the cities
+
+Get user input for each city
+
+Take each city and rearrange their order based on what cities come first alphabetically
+
+Print each city

@@ -1,0 +1,9 @@
+initialize variables for numbers. set a low and a high so there's a range to guess within
+
+set a while loop that contains the portion of the game where the computer tries to guess the player's number
+
+Set a for and do loop setting up the side of the game where the player tries to guess the computer's number
+
+use if, else if, and else statements to determine if the number is correct, higher, or lower 
+
+set a limit on each one so the computer or the player can only guess a certain number of times
