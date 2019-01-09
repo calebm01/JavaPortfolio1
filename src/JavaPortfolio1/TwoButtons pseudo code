@@ -1,0 +1,12 @@
+initialize the buttons and frame with variables
+implement the action listener
+main class will only call the two buttons class
+create two buttons class
+set title, size, location, and layout for the frame
+Make sure the GUI can exit on close
+label the two created buttons
+add the buttons and action listeners
+set the frame visibility to true
+
+create an action listener class to determine which button is pressed, change the background
+color based on which button is pressed

@@ -1,0 +1,9 @@
+Give user input for the number of items
+give user input for what the numbers are
+program takes these numbers and uses different methods to find the average,
+max and min, median, and mode
+use division to find average
+use if and else statements to find max and min
+use if and else statements to find median
+use for loops and if and else statements to find mode
+display all of the information to the user

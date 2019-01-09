@@ -1,0 +1,5 @@
+Initialize classes that will contain each major decision
+use if and else if statements to determine which decision the user made
+make sure the user doesn't go outside decision parameters using else statements
+make fights using while loops, once the loop breaks the fight will end
+display a victory screen or death screen depending on the outcome
